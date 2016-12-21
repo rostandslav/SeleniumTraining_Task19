@@ -1,0 +1,9 @@
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\obj\Debug\PageObjects.csprojResolveAssemblyReference.cache
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Debug\PageObjects.dll
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Debug\PageObjects.pdb
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Debug\WebDriver.dll
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Debug\WebDriver.Support.dll
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Debug\WebDriver.xml
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Debug\WebDriver.Support.xml
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\obj\Debug\PageObjects.dll
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\obj\Debug\PageObjects.pdb

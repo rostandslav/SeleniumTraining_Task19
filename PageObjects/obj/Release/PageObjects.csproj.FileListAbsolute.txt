@@ -1,0 +1,8 @@
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Release\PageObjects.dll
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Release\PageObjects.pdb
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Release\WebDriver.dll
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Release\WebDriver.Support.dll
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Release\WebDriver.xml
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\bin\Release\WebDriver.Support.xml
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\obj\Release\PageObjects.dll
+C:\Users\техносила\documents\visual studio 2013\Projects\PageObjects\PageObjects\obj\Release\PageObjects.pdb
